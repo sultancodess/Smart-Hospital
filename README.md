@@ -25,13 +25,14 @@
 
 🔗 **[Medicare-HMS Live](https://medicare-hms.vercel.app/)**  
 
-## 📂 Project Repository  
+### 🏥 Demo Credentials  
 
-🔗 **[GitHub Repository](https://github.com/yashtupkar/New-HMS)**  
+To explore the system, use the following demo login details:  
 
-## 📌 Installation & Setup  
+🧑‍⚕️ **Patient Account:**  
+- **Username:** `patient12`  
+- **Password:** `patient12`  
 
-1. **Clone the Repository**  
-   ```sh
-   git clone https://github.com/yashtupkar/New-HMS.git
-   cd New-HMS
+For **Admin or Doctor access**, please contact me.  
+
+---
