@@ -50,11 +50,5 @@ To explore the system, use the following demo login details:
 - **Username:** `patient12`  
 - **Password:** `patient12`  
 
-For **Admin or Doctor access**, please contact me.  
 
----
-
-💡 **Contributions are welcome!** If you’d like to improve the system or add new features, feel free to fork the repository and submit a pull request.  
-
-🚀 **Transforming Healthcare, One Innovation at a Time!**  
 
